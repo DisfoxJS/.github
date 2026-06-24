@@ -21,7 +21,7 @@ The goal is simple: keep things scalable, readable, and easy to maintain.
 ---
 
 ## 🌐 Website
-<a href="https://disfox.netlify.app">https://disfox.netlify.app</a>
+<a href="https://disfox.netlify.app">https://disfox.js.org</a>
 
 ---
 
